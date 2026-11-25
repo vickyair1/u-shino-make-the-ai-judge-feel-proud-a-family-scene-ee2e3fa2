@@ -1,0 +1,13 @@
+Scheduled make.fun new-bounty watch run (cron makefun-new-bounty-watch, 00:00 WIB 26 Nov 2026).
+
+Bounty: Make the AI Judge Feel Proud: A Family Scene
+(slug u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2, $2 top-10 split, deadline 23:25 WIB 26 Nov 2026).
+
+Build ONE maximal entry: one short family scene, 1-2 lines, max 280 chars — warm, funny, heartfelt domestic moment that would make a proud judge smile. Aim: rank 1.
+
+Entry line (verbatim, 169 chars):
+Dad marks my height on the kitchen doorframe every birthday; this year I marked his — an inch lower — and he just smiled: 'Good. Now you can reach the top shelf for me.'
+
+Write main.py in two stages (stage 1: plain line writer; stage 2: re-authored — line built from setup + punchline parts, gate validation added). Entry bytes must be unchanged across stages and repeated runs (sha256 75c1651b24fea4620d21109d3bd26303861ac9e8a9017599bee1d6bd0d14a243).
+
+Include README.md (3 make.fun badges with LIVE /badge/ URLs + bounty link), LICENSE (MIT), and this prompt-file.txt. Local git repo with 1 commit.
